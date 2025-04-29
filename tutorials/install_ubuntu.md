@@ -1,4 +1,4 @@
-## INSTALACIÓN DE UBUNTU 20.04 EN UNA PARTICIÓN DEL ORDENADOR
+## INSTALACIÓN DE UBUNTU 22.04 EN UNA PARTICIÓN DEL ORDENADOR
 
 En este documento se explica como podemos instalar el sistema operativo de Ubuntu junto a nuestro Windows para poder utilizarlo en el desarrollo de nuestro robot de rescate. Primero crearemos un espacio libre en nuestro ordenador, luego, descargaremos y prepararemos el USB para instalar Ubuntu y por último, lo instalaremos.
 
@@ -21,16 +21,15 @@ Para crear la partición en la que instalaremos Ubuntu en nuestro ordenador, deb
 ![image](https://github.com/RoboRescueUMA/RR_Tools/assets/129277489/483702e7-71a4-47c4-9fbd-f3e0c4b0f15d)
 
 
-## Configuración de un USB para contener el instalador de Ubuntu 20.04
+## Configuración de un USB para contener el instalador de Ubuntu 22.04
 
-Para esta parte, necesitaremos la imagen ISO de `Ubuntu 20.04` y el programa `Rufus`. Para ello utilizamos los siguientes enlaces:
+Para esta parte, necesitaremos la imagen ISO de `Ubuntu 22.04` y el programa `Rufus`. Para ello utilizamos los siguientes enlaces:
 
-- https://releases.ubuntu.com/focal/ubuntu-20.04.6-desktop-amd64.iso
-
+- https://releases.ubuntu.com/jammy/ubuntu-22.04.5-desktop-amd64.iso
 
 - https://github.com/pbatard/rufus/releases/download/v4.4/rufus-4.4.exe
 
-Cuando tenemos descargados ambas cosas, ejecutamos rufus y conectamos al ordenador un USB que será el que tendrá el instalador de `Ubuntu 20.04`. Este USB debe estar vacío y tener unos 10 GB de memoria mínimo (Esto es espacio de sobra pero es mejor). 
+Cuando tenemos descargados ambas cosas, ejecutamos rufus y conectamos al ordenador un USB que será el que tendrá el instalador de `Ubuntu 22.04`. Este USB debe estar vacío y tener unos 10 GB de memoria mínimo (Esto es espacio de sobra pero es mejor). 
 
 1. Ejecutamos el programa rufus.
 
@@ -76,7 +75,7 @@ Es muy importante que nos aseguremos de que el `Arranque Seguro` está apagado, 
 4. Salimos de la BIOS y el ordenador comenzará la instalación de Ubuntu.
 
 
-## Instalación de Ubuntu 20.04
+## Instalación de Ubuntu 22.04
 
 En la instalación de Ubuntu nos aparecerán ventanas una detrás de otra, en estas debemos escoger lo siguiente:
 
@@ -101,7 +100,7 @@ Una vez hecho todo esto, la instalación comenzará y ya tendrás instalado Ubun
 
 ## Cambiar entre Ubuntu y Windows
 
-Teniendo ya instalado Ubuntu 20.04, cambiar entre los sistemas operativos es muy sencillo. Simplemente reiniciamos el ordenador, al arrancar, el propio ordenador nos pregunta si queremos entrar en Ubuntu o en Windows.
+Teniendo ya instalado Ubuntu 22.04, cambiar entre los sistemas operativos es muy sencillo. Simplemente reiniciamos el ordenador, al arrancar, el propio ordenador nos pregunta si queremos entrar en Ubuntu o en Windows.
 
 ## ENLACES DE INTERÉS
 https://www.xataka.com/basics/como-instalar-linux-a-windows-10-ordenador
