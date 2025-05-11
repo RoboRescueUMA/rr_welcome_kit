@@ -8,7 +8,7 @@ Here you will find how-to-do-it guides, tutorials, and many more!
 # Prepare your Github Profile
 First at all, you should prepare your personal Github Profile, follow [this issue](https://github.com/RoboRescueUMA/rr_welcome_kit/issues/1)
 
-# Welcome to GitHub
+# Welcome to GitHub and Git
 If you're new to Github, follow [this issue](https://github.com/RoboRescueUMA/rr_welcome_kit/issues/6)
 
 # Welcome to Simulink
