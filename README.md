@@ -17,5 +17,10 @@ If you're new to Simulink, follow [this issue](https://github.com/RoboRescueUMA/
 # Welcome to Linux
 If you're new to Linux, follow [this issue](https://github.com/RoboRescueUMA/rr_welcome_kit/issues/4)
 
-# Welcome to ROS
-If you're new to ROS, follow [this issue](https://github.com/RoboRescueUMA/rr_welcome_kit/issues/2)
+# Welcome to OOP (Object Oriented Programming)
+If you're new to programming, follow [this issue](https://github.com/RoboRescueUMA/rr_welcome_kit/issues/8)
+
+# Welcome to ROS/ROS2
+If you're new to ROS, follow [this issue](https://github.com/RoboRescueUMA/rr_welcome_kit/issues/2). (We are migrating to ROS2 Humble, so follow preferably the next line)
+
+If you're new to ROS2, follow [this issue](https://github.com/RoboRescueUMA/rr_welcome_kit/issues/7)
