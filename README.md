@@ -24,3 +24,6 @@ If you're new to ROS2, follow [this issue](https://github.com/RoboRescueUMA/rr_w
 
 # Welcome to Simulink
 If you're new to Simulink, follow [this issue](https://github.com/RoboRescueUMA/rr_welcome_kit/issues/5)
+
+# Other resources
+In [this file](https://github.com/RoboRescueUMA/rr_welcome_kit/blob/main/docs/online_resources.md) you can find links to highly valuable online resources to learn about engineering, robotics theory, software... It may include web pages, Youtube channels, books, articles and many more. Check it out to keep up with the state of the art!
