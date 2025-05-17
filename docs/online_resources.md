@@ -5,6 +5,8 @@ In this file you can find links to highly valuable online resources to learn abo
 ## Robotics
 
 * [Articulated Robotics](https://www.youtube.com/@ArticulatedRobotics): Youtube channel to learn about robotics and ROS2.
+* [Open Robotics (LinkedIn)](https://www.linkedin.com/company/open-source-robotics-foundation/): LinkedIn profile of the organization that maintain ROS/ROS2 and Gazebo.
+* [Enzo Ghisoni (LinkedIn)](https://www.linkedin.com/in/enzo-ghisoni-robotics/): LinkedIn profile that posts useful state of the art robotics resources and news on a daily basis. He also posts robotics job offers from around the world. 
 
 ## Software
 
